@@ -5,6 +5,8 @@ a notification on the devices to check the working of the application.
 - The application stores the reminder using Core Data. It allows swipe action which lets user delete and edit the
 reminder. Also, it alerts the before deleting the reminder and deletes the reminder on confirmation
 
+NOTE: Run 'test' option to allow notifications.
+
 ## Launch Page
 <p align="center">
   <img src="https://github.com/Siddharthh06/MyReminders-iOS/blob/main/app_snippet/launch_page.png" width="200" height="433">
