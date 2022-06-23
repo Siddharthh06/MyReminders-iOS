@@ -1,9 +1,7 @@
 # MyReminders
-- Reminder application for iPhones which can be used to set reminders for specific date and time and remind the user through notification.
-- This application allows the user to add, edit, delete a reminder. It also provides the user with a test option which sends
-a notification on the devices to check the working of the application.
-- The application stores the reminder using Core Data. It allows swipe action which lets user delete and edit the
-reminder. Also, it alerts the before deleting the reminder and deletes the reminder on confirmation
+- Developed a reminder application for iOS-based devices which can be used to set reminders for specific dates and times and remind the user through a notification.
+- This application allows users to add, edit, and delete a reminder. It also provides the user with a test option which sends a notification on the devices to check the application’s working.
+- The application uses Core-Data to store reminders. It allows swipe action, which lets users delete and edit the reminder. It also shows pop up alert before deleting the reminder and deletes the reminder on confirmation from the user.
 
 NOTE: Run 'test' option to allow notifications.
 
